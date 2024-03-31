@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+//shabang    
 import inquirer from "inquirer";
 import chalk from "chalk";
 console.log(chalk.green.bold("========>>>>>welcome TO-DO-LIST<<<<<========"));
